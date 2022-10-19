@@ -106,9 +106,9 @@ article.vidlink {
     margin-bottom: 100px;
 }
 
-iframe {
-    width: 560px;
-    height: 315px;
+video {
+    width: 50vw;
+    height: auto;
     object-fit: contain;
     border-bottom: 1px solid;
     border-color: #dbdbdb;
